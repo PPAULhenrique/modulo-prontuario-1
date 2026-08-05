@@ -1,1 +1,1 @@
-console.log("Cálculo incorreto");
+console.log("Cálculo correto");
